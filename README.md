@@ -1,3 +1,7 @@
+key rules:=
+To add dependencies run below command.
+npm install 
+
 Project Documentation.
 
 1.Created wireframe of weather application.
